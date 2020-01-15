@@ -1,4 +1,4 @@
-![Programming-Basics-January-2019]()
+![Programming-Basics-January-2019](https://github.com/BoykoPetevBoev/Programming-Basics-January-2019/blob/master/ProgrammingBasics.jpg)
 
 ## За курса
 
@@ -25,6 +25,6 @@
 
 ## Сертификат
 
-![alt text](https://github.com/BoykoPetevBoev/Programming-Basics-January-2019/blob/master/HonorableMention.jpeg)
+![Image Not Found](https://github.com/BoykoPetevBoev/Programming-Basics-January-2019/blob/master/HonorableMention.jpeg)
 
 ---
