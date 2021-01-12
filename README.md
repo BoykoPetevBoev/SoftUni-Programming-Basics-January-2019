@@ -1,4 +1,8 @@
-![Programming-Basics-January-2019](https://github.com/BoykoPetevBoev/Programming-Basics-January-2019/blob/master/ProgrammingBasics.jpg)
+![Programming-Basics-January-2019](https://github.com/BoykoPetevBoev/Programming-Basics-January-2019/blob/master/_README/ProgrammingBasics.jpg)
+
+![Image Not Found](https://github.com/BoykoPetevBoev/Programming-Basics-January-2019/blob/master/_README/HonorableMention.jpg)
+
+---
 
 ## За курса
 
@@ -22,12 +26,6 @@
 - While-цикъл
 - For-цикъл
 - Вложени цикли
-
-## Сертификат
-
-![Image Not Found](https://github.com/BoykoPetevBoev/Programming-Basics-January-2019/blob/master/HonorableMention.jpeg)
-
----
 
 ## Полезни линкове
 
